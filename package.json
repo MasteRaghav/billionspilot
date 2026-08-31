@@ -1,0 +1,12 @@
+{
+  "name": "billionspilot",
+  "version": "1.0.0",
+  "description": "Static HTML site with Vercel Speed Insights",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step required for static HTML'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.14"
+  }
+}
